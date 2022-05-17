@@ -1,0 +1,3 @@
+-> The latest version of create-react-app has SASS support built in and this guide is not necessary.
+-> delete unnecessary files.
+-> create a github repo & push the starter project.
