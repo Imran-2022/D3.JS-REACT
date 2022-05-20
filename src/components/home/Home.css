@@ -1,0 +1,19 @@
+.homeContainer{
+    margin: 70px;
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-content: center;
+    align-items: center;
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.form > div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
